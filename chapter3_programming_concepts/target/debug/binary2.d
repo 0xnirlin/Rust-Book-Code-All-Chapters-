@@ -1,0 +1,1 @@
+/home/ahmadniazi/Rust\ Book/Rust-Book-Code-All-Chapters-/chapter3_programming_concepts/target/debug/binary2: /home/ahmadniazi/Rust\ Book/Rust-Book-Code-All-Chapters-/chapter3_programming_concepts/src/function.rs
